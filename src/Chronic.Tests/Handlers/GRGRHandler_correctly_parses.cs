@@ -1,10 +1,11 @@
 ﻿using System;
-using System.Runtime.Remoting.Contexts;
+//using System.Runtime.Remoting.Contexts;
 using Xunit;
 using Xunit.Extensions;
 
 namespace Chronic.Tests.Handlers
 {
+    /*
     public class GRGRHandler_correctly_parses : ParsingTestsBase
     {
         protected override DateTime Now()
@@ -221,4 +222,5 @@ namespace Chronic.Tests.Handlers
                 .StartingAt(Time.New(2006, 8, 13));
         }
     }
+    */
 }
